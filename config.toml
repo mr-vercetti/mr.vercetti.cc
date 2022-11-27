@@ -1,0 +1,25 @@
+base_url = "https://mr.vercetti.cc"
+theme = "d3c3nt"
+title = "mr-vercetti"
+description = "mr.vercetti.cc - sup homie?"
+
+default_language = "en"
+generate_feed = true
+minify_html = true
+
+[markdown]
+  highlight_code = true
+  highlight_theme = "visual-studio-dark"
+  external_links_target_blank = true
+  external_links_no_follow = true
+  external_links_no_referrer = true
+  smart_punctuation = true
+
+[extra]
+  d3_nav = [
+    { name = "HOME", path = "/" },
+    { name = "POSTS", path = "/posts"},
+    { name = "PROJECTS", path = "https://git.vercetti.cc/mr-vercetti"},
+  ]
+  d3_icon = "/icon.png"
+  d3_author = "mr-vercetti"
