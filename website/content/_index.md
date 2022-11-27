@@ -28,7 +28,7 @@ I intend to write something from time to time about what turns me on, which is:
 ## By the way, more about me...
 I make my living as DevOps Engineer. I love classic/retro/old stuff, but I also
 appreciate the new. I spend most of my free time in front of the computer but
-that doesn't mean it's "productive". I'm not a fan of productivity above all else.
+that doesn't mean it's "productive". I'm not a fan of forced productivity.
 Sometimes I just like to sit and install mods for Vice City.
 
 ## My job and my own projects
