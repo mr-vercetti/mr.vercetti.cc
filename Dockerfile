@@ -1,6 +1,6 @@
 FROM alpine as builder
 
-COPY ./website /home
+COPY ./website /home/website
 
 WORKDIR /home/website
 RUN apk add zola --repository http://dl-cdn.alpinelinux.org/alpine/edge/community/ && \ 
