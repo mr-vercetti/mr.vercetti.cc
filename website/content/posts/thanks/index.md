@@ -4,15 +4,11 @@ description = "A few words of thanks"
 date = 2022-11-24
 +++
 
-This is my first post on this website, so I would like to take this opportunity to thank a few people
-whose works have influenced me recently or who are simply cool.
+This is my first post on this website, so I would like to take this opportunity to thank a few people whose works have influenced me recently or who are simply cool.
 
-- [Thomas Pain][thomas-pain] for his [manifesto][manifesto], after reading which I wanted
-to have my own website and which I fully agree with.
-- [Wolfgang][wolfgang] for his cool [yt channel][wolfgang-yt] thanks to which I have become familiar
- with many interesting issues and technologies (including [Zola][zola], on which this site is based).
-- [FIGBERT][figbert] for creating a veeery decent [d3c3nt Zola theme][d3c3nt], which this
-  site also uses.
+- [Thomas Pain][thomas-pain] for his [manifesto][manifesto], after reading which I wanted to have my own website and which I fully agree with.
+- [Wolfgang][wolfgang] for his cool [yt channel][wolfgang-yt] thanks to which I have become familiar with many interesting issues and technologies (including [Zola][zola], on which this site is based).
+- [FIGBERT][figbert] for creating a veeery decent [d3c3nt Zola theme][d3c3nt], which this site also uses.
 - [Silent][silent] for a whole bunch of excellent patches for old PC games.
 - [ThirteenAG][thirteenag] for all your magnificent [Widescreen Fixes][thirteenag-widescreen-fixes].
 
