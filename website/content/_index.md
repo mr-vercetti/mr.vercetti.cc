@@ -19,18 +19,17 @@ I intend to write something from time to time about what turns me on, which is:
 
 - Self-hosting
 - Tinkering with computers
-- Old PC hardware
 - My job
-- Playing classic video games
-- Watching classic movies and shows
-- Film and digital photography
+- PC Games
+- Movies, TV shows
+- Film  photography
 - Art in any other form (fashion, architecture, music, literature)
 - Weird stuff from the Internet
 
 ## By the way, more about me...
 
-I love classic/retro/old stuff, but also appreciate the new. I spend a lot of
-my free time in front of the computer but that doesn't mean it's "productive".
+When it comes to pop culture, I love the classic stuff, but also appreciate the new.
+I spend a lot of my free time in front of the computer but that doesn't mean it's "productive".
 I'm not a fan of forced productivity. Sometimes I just like to sit and install
 mods for GTA Vice City. I'm interested in new technologies and enjoy typing
 commands in the terminal, so I work as a DevOps Engineer.
