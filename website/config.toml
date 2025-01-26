@@ -4,7 +4,7 @@ title = "mr-vercetti"
 description = "mr.vercetti.cc - sup homie?"
 
 default_language = "en"
-generate_feed = true
+generate_feeds = true
 minify_html = true
 
 [markdown]

@@ -1,4 +1,4 @@
-FROM alpine as builder
+FROM alpine AS builder
 
 COPY ./website /home/website
 
