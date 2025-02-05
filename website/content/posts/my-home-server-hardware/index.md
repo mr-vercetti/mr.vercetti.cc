@@ -4,7 +4,7 @@ description = "Tough decisions about home server hardware."
 date = 2023-01-26
 +++
 
-![Cool stuff m8](hustler-neofetch.jpg)
+![Neofetch pic](hustler-neofetch.jpg)
 
 As I don't like to pay big tech companies for services that are stealing my data, some time ago I decided to change something in my life and set up a home server. I mainly wanted to create a solution to sync files from many devices, organize my movie collection as well as having my own instance of some password manager. I knew what software I need, but I wasn't sure about the hardware. And that's how I started spending more and more time on the [r/selfhosted][selfhosted] and [r/HomeServer][homeserver] subreddits. 
 

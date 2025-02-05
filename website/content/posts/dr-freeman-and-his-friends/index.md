@@ -8,7 +8,7 @@ date = 2024-03-09
 
 My first time playing Half-Life was quite recently, in 2019, when the pandemic began. Locked up at home, I thought I would start catching up on some gaming classics that I've never played. I started with the Half-Life series and immediately fell in love! The atmosphere, the soundtracks, the sounds and the whole aesthetics of this series are something truly unique. Add to that an interesting story and immersive, innovative gameplay and you get games that, many many years after release, surprises and are incredibly enjoyable.
 
-Well, ok, although there are some people who don't like them (lol, weirdos), everyone know why they are iconic. But perhaps not everyone knows that each one of them can be played in coop. Of course, there is no official support for this mode in any of them, but what are mods for? Yes, to fulfill all our secret desires... ❤️ And I didn't know that I had the desire to play Half-Life in coop until I found the mods below while googling for games to play with my homies. Thank you PC modding community!
+Well, ok, although there are some people who don't like them (lol, weirdos), everyone know why they are iconic. But perhaps not everyone knows that each one of them can be played in coop. Of course, there is no official support for this mode in any of them, but what are mods for? Yes, to satisfy our needs. And I didn't know that I had a need to play Half-Life in coop until I found the mods below while googling for games to play with my homies. Thank you PC modding community.
 
 | Game | Mod | Installation (client) |
 | ---- | --- | --------------------- |
@@ -24,7 +24,7 @@ Yeah, but after all, playing any of these mods is fun, even better than classic 
 
 ### But how? 🛠️
 
-![Tinkering with computers in HL2](hl2.jpg)
+![HL2 pic](hl2.jpg)
 
 You will most likely be forced to host your own server, as there are not many (if any) public ones to play on. As for Synergy and Sven Co-op, it's rather simple, just create server from main game menu and invite your friends. By doing so, you will create a server that runs only when your game is running. In my case it worked fine in Synergy, but in Sven Co-op the server crashed every few minutes. Things can also go wrong with the SourceCoop server setup, as it is more complicated and runs as a separate application, you can see the guide for it [here][sourcecoop-docs]. 
 
