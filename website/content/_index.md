@@ -6,7 +6,7 @@ template = "section.html"
 
 ## Hey there!
 
-I'm `mr-vercetti`, a regular nerdy guy from Europe. I created this website to be able
+I'm `mr-vercetti`, a regular nerdy guy from Poland. I created this website to be able
 to share my hobbies with others and not use bloated centralised social media platforms.
 I can do whatever I want here, without ads and other crap.
 
